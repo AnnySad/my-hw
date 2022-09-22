@@ -1,0 +1,39 @@
+.someClass {
+
+}
+.button{
+    margin: 10px;
+    width: 60px;
+
+    background: mediumspringgreen;
+    color: #222;
+    outline: none;
+}
+.button.focus {
+    outline: mediumspringgreen solid 1px;
+}
+ .button.active {
+     background: red;
+ }
+ .active {
+     background: #9793b9;
+ }
+ .affair{
+     display: flex;
+ }
+ .item {
+     margin: 9px;
+     width: 100px;
+ }
+ .high{
+     color: coral;
+ }
+ .middle{
+     color: blue;
+ }
+ .low{
+     color: lawngreen;
+ }
+
+
+
